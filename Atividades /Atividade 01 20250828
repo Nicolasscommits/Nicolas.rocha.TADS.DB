@@ -1,0 +1,35 @@
+De acordo com o modelo apresentado podemos notar alguns parametros de entrada e de gerenciamento.
+
+- ENTRADA - 
+ Dados do cliente.  
+ Carrinho de compras
+ Gerenciamento de uso, produtos entre outros.
+ Recebimento de estoque.
+
+- CONTROLES -
+ Controle de cupons.  
+    Politicas de compra.
+ Proteçao de dados do client.
+
+- REGRAS -
+ Tipos de pagamento.
+ Regras de envios.
+ Regras de cupons.
+ Armazenamento de mercadorias.
+
+ - MECANISMOS - 
+ Banco de dados.
+ Provedor de pagamento.     
+   Venda eletronic / E-commerce.
+   Equipe (fisica e virtual).
+   
+
+- SAIDA - 
+ Registro de pedidos.
+ Uso de cupons.
+  Aplicacao de desconto.
+
+[image](.//Captura%20de%20tela_31-8-2025_184247_app.diagrams.net.jpeg)
+
+
+
